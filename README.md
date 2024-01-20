@@ -1,1 +1,1 @@
-Run Java compiler and follows prompts on terminal
+Run Java compiler and follow prompts on terminal
